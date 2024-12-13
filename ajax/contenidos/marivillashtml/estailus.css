@@ -1,0 +1,6 @@
+p {
+    color: white;
+    -webkit-text-stroke: 0.1px black;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
